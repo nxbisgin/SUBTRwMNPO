@@ -4,6 +4,11 @@ addpath(genpath('C:\RESEARCH\NES\SUBTRwMNPOpaper\MI_functions'));
 addpath(genpath('C:\RESEARCH\NES\SUBTRwMNPOpaper\SARA_functions'));
 addpath(genpath('C:\RESEARCH\NES\SUBTRwMNPOpaper\MIToolbox'));
 
+% 2019 Neslihan Bisgin
+% For the details of the method please check related paper:
+% Bisgin, Neslihan; Wilson, James; Eswaran, Hari; 
+% An Enhanced Frequency Dependent Subtraction Algorithm for Removal of Cardiac Interference from fMEG by Using Minimum Norm Projection Operator
+% Journal of Neuroscience Methods
 
 %input the data file path
 fi='C:\RESEARCH\NES\fBSER\lr28\29w\lr28_AER-STAN_20070402_29w.ds';
