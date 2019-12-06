@@ -1,6 +1,7 @@
 clear;close all;clc;
 addpath(genpath('C:\RESEARCH\NES\SUBTRwMNPOpaper\ctf_software'));
 addpath(genpath('C:\RESEARCH\NES\SUBTRwMNPOpaper\MI_functions'));
+addpath(genpath('C:\RESEARCH\NES\SUBTRwMNPOpaper\SARA_functions'));
 addpath(genpath('C:\RESEARCH\NES\SUBTRwMNPOpaper\MIToolbox'));
 
 
